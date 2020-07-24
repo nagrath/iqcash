@@ -1,4 +1,4 @@
-IQcash Core staging tree 0.8.2
+IQcash Core staging tree 0.8.4
 ===============================
 
 https://iq.cash
